@@ -3,16 +3,18 @@
   <img width="230" height="150" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">
 </p>
 
-Install [python3](https://www.python.org/)    
+### To do list 
 
-Install pip3 - sudo apt install python-pip  
+* Install [python3](https://www.python.org/)    
 
-Pip install virtualenv with pip3 install virtualenv  
+* Install pip3 - sudo apt install python-pip  
 
-Create their virtual environment - virtualenv venv  
+* Pip install virtualenv with pip3 install virtualenv  
 
-make sure they are working inside of it - source venv/bin/activate  
+* Create your virtual environment - virtualenv venv  
 
-Install the pip dependencies file, using pip3 install -r pip_dependencies.txt  
+* Make you're working inside of it - source venv/bin/activate  
 
-Run the python program - python3 pass_gen.py  
+* Install the pip dependencies file, using: pip3 install -r pip_dependencies.txt  
+
+* Run the python program - python3 pass_gen.py  
