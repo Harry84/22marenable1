@@ -17,7 +17,11 @@
 
 * Install the pip dependencies file, using: pip3 install -r pip_dependencies.txt  
 
-* Run the python program - python3 pass_gen.py    
+* Run the python program - python3 pass_gen.py  
+
+* new addition  so I'm linked to Githib
+
+* another addition
 
 <p align="center">
 
